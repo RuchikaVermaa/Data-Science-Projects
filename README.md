@@ -121,14 +121,14 @@ To analyze numerical data and identify relationships using data visualization te
    ```bash
    git clone <repository-url>
    
-2.Install required libraries:
+ 2.Install required libraries:
 
-pip install numpy pandas matplotlib seaborn
+  pip install numpy pandas matplotlib seaborn
 
 
-3.Open Jupyter Notebook:
+ 3.Open Jupyter Notebook:
 
-jupyter notebook
+  jupyter notebook
 
 
 Run the notebooks step-by-step
@@ -136,6 +136,7 @@ Run the notebooks step-by-step
 ## 👤 Author
 
 Ruchika Verma
+
 📧 Email: ruchikaverma.workk@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/ruchika-verma-1ab509357/
