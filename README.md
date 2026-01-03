@@ -117,21 +117,15 @@ To analyze numerical data and identify relationships using data visualization te
 
 ## 🚀 How to Run the Projects
 
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   
- 2.Install required libraries:
+```bash
+# Clone the repository
+git clone <repository-url>
 
-  pip install numpy pandas matplotlib seaborn
+# Install required libraries
+pip install numpy pandas matplotlib seaborn
 
-
- 3.Open Jupyter Notebook:
-
-  jupyter notebook
-
-
-Run the notebooks step-by-step
+# Open Jupyter Notebook
+jupyter notebook
 
 ## 👤 Author
 
