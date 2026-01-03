@@ -127,10 +127,3 @@ pip install numpy pandas matplotlib seaborn
 # Open Jupyter Notebook
 jupyter notebook
 
-## 👤 Author
-
-Ruchika Verma
-
-📧 Email: ruchikaverma.workk@gmail.com
-
-🔗 LinkedIn: https://www.linkedin.com/in/ruchika-verma-1ab509357/
