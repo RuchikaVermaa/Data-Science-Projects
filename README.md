@@ -1,4 +1,4 @@
-# 🚀 CodSoft Data Science Projects
+# 🚀  Data Science Projects
 
 This repository contains **three Data Science projects** implemented using **Python and Jupyter Notebook**.  
 These projects focus on **data analysis, visualization, and prediction**, demonstrating practical hands-on skills in Data Science.
